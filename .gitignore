@@ -6,3 +6,4 @@ logs/
 regressionlogs/
 regression.ipynb
 regression_model.h5
+regression/
